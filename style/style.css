@@ -63,3 +63,16 @@ main{
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
 }
+
+#b{
+    font-family: var(--fonte-padrao);
+    font-size: 1.2em;
+    max-width: 500px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-bottom: 30px;
+}
+#f{
+    font-size: 3em;
+    font-family: var(--fonte-play);
+}
